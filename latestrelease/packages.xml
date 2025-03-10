@@ -1,6 +1,6 @@
 
 					<packages>
-						<package name="MultiLayerAlignment" version="6.15.6" os="all" url="MultiLayerAlignment/MultiLayerAlignment-6.15.6-all.zip" desc="MultiLayerAlignment" org="Eindhoven University of Technology" license="GPL" author="Azadeh Mozafari Mehr" auto="false" hasPlugins="true" logo="prom_subtitle_hat_300.png">
+						<package name="MultiLayerAlignment" version="6.15.7" os="all" url="MultiLayerAlignment/MultiLayerAlignment-6.15.7-all.zip" desc="MultiLayerAlignment" org="Eindhoven University of Technology" license="GPL" author="Azadeh Mozafari Mehr" auto="false" hasPlugins="true" logo="prom_subtitle_hat_300.png">
 				    	<dependency org="prom" name="ProM-Plugins" rev="latest" changing="true" transitive="true" />
     	<dependency org="prom" name="BasicUtils" rev="latest" changing="true" transitive="true" />
     	<dependency org="prom" name="Widgets" rev="latest" changing="true" transitive="true" />
