@@ -1,0 +1,42 @@
+Deviating Behaviors;occurrence;Support;confidence
+Unexpected activity W Call incomplete files complete_S was performed 515 times.;515;0.0149;1.0
+    -515 times  by the role Clerk.;515;0.0149;1.0
+Unexpected activity W Call incomplete files complete_C was performed 515 times.;515;0.0149;1.0
+    -515 times  by the role Clerk.;515;0.0149;1.0
+Optional data Operation Read(address)_O was ignored 4998 times.;4998;0.1442;1.0
+    +4998 times  in the context of activity A Accepted.;4998;0.1442;1.0
+         -4998 times  by the role Clerk.;4998;0.1442;1.0
+Activity W Call incomplete files ate abort_S was skipped 396 times;396;0.0114;1.0
+    -396 times  by the role Clerk.;396;0.0114;1.0
+Activity W Call incomplete files ate abort_C was skipped 396 times;396;0.0114;1.0
+    -396 times  by the role Clerk.;396;0.0114;1.0
+Mandatory data Operation Update(OCancelledFlag)_M was ignored 8699 times.;8699;0.251;1.0
+    +2513 times  in the context of activity W Validate application ate abort.;2513;0.0725;1.0
+         -2513 times  by the role Clerk.;2513;0.0725;1.0
+    +4968 times  in the context of activity W Call after offers ate abort.;4968;0.1433;1.0
+         -4968 times  by the role Clerk.;4968;0.1433;1.0
+    +1219 times  in the context of activity A Cancelled.;1219;0.0352;1.0
+         -1219 times  by the role Clerk.;1219;0.0352;1.0
+Mandatory data Operation Read(address- email)_M was ignored 373 times.;373;0.0108;1.0
+    +373 times  in the context of activity A Accepted.;373;0.0108;1.0
+         -373 times  by the role Clerk.;373;0.0108;1.0
+Mandatory data Operation Create(appID)_M was ignored 1751 times.;1751;0.0505;1.0
+    +1751 times  in the context of activity A Create Application.;1751;0.0505;1.0
+         -1751 times  by the role Clerk.;1751;0.0505;1.0
+Unexpected data operation Update(OReturnedFlag) was executed 3566 times.;3566;0.1029;1.0
+    -3566 times  by the role Clerk.;3566;0.1029;1.0
+         -480 times  by the user User_118.;480;0.0138;1.0
+         -602 times  by the user User_117.;602;0.0174;1.0
+         -476 times  by the user User_116.;476;0.0137;1.0
+         -353 times  by the user User_114.;353;0.0102;1.0
+         -468 times  by the user User_113.;468;0.0135;1.0
+         -438 times  by the user User_112.;438;0.0126;1.0
+Unexpected data operation Update(OCancelledFlag) was executed 2742 times.;2742;0.0791;1.0
+    -2742 times  by the role Clerk.;2742;0.0791;1.0
+         -1498 times  by the user User_1.;1498;0.0432;1.0
+Unexpected data operation Read(offID) was executed 2387 times.;2387;0.0689;1.0
+    -2387 times  by the role Clerk.;2387;0.0689;1.0
+Unexpected data operation Read(address- email) was executed 1966 times.;1966;0.0567;1.0
+    -1966 times  by the role Clerk.;1966;0.0567;1.0
+Unexpected data operation Create(offID) was executed 2387 times.;2387;0.0689;1.0
+    -2387 times  by the role Clerk.;2387;0.0689;1.0

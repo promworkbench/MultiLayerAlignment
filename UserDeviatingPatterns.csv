@@ -1,0 +1,20 @@
+Deviating Behaviors;occurrence;Support;confidence
+The user User_85 executed unexpected data operations 416 times.;416;0.012;0.9952
+The user User_28 executed unexpected data operations 515 times.;515;0.0149;0.9246
+The user User_27 executed unexpected data operations 398 times.;398;0.0115;0.9803
+The user User_119 executed unexpected data operations 397 times.;397;0.0115;0.9475
+The user User_118 executed unexpected data operations 560 times.;560;0.0162;0.9722
+    -480 times  unexpected data operation Update(OReturnedFlag).;480;0.0138;1.0
+The user User_117 executed unexpected data operations 634 times.;634;0.0183;0.952
+    -602 times  unexpected data operation Update(OReturnedFlag).;602;0.0174;1.0
+The user User_116 executed unexpected data operations 486 times.;486;0.014;0.924
+    -476 times  unexpected data operation Update(OReturnedFlag).;476;0.0137;1.0
+The user User_114 executed unexpected data operations 361 times.;361;0.0104;0.8958
+    -353 times  unexpected data operation Update(OReturnedFlag).;353;0.0102;1.0
+The user User_113 executed unexpected data operations 507 times.;507;0.0146;0.9354
+    -468 times  unexpected data operation Update(OReturnedFlag).;468;0.0135;1.0
+The user User_112 executed unexpected data operations 462 times.;462;0.0133;0.924
+    -438 times  unexpected data operation Update(OReturnedFlag).;438;0.0126;1.0
+The user User_1 executed unexpected data operations 1498 times.;1498;0.0432;0.9973
+    -1498 times  unexpected data operation Update(OCancelledFlag).;1498;0.0432;1.0
+User(s) {set()} had the highest number of deviating behaviors and were involved in different types of deviations.;-;-;-

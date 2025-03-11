@@ -1,0 +1,4 @@
+Deviating Behaviors;occurrence;Support;confidence
+The user User_123 executed unexpected data operations 1849 times.;1849;0.010669421;0.956049638
+The user User_121 executed unexpected data operations 1741 times.;1741;0.010046221;0.959757442
+The user User_1 perfomed unexpected activities 3188 times.;3188;0.018401722;0.919550173
